@@ -478,7 +478,7 @@ export const projects = [
   //       github: "https://github.com/upasana0710",
   //     },
   //   ],
-  // },
+  },
   // {
   //   id: 1,
   //   title: "Vexa",

@@ -435,7 +435,7 @@ export const projects = [
   },
   {
     id: 9,
-    title: "Hospital Management System",
+    title: "Apple - 3D Website Clone",
     date: "Jun 2024 - Jun 2024",
     description:
       "The Interactive iPhone 15 Pro Web Experience is an engaging web project built with React.js, GSAP, and Three.js. It features dynamic animations, interactive 3D models, and a video carousel to showcase the iPhone 15 Pro. The responsive design ensures a smooth experience across all devices, with high-quality media that adjusts to screen size. GSAP enables smooth transitions, while Three.js brings the device to life with realistic 3D rendering.",
@@ -452,18 +452,18 @@ export const projects = [
     github: "https://github.com/swxpnill/Apple-Website",
     webapp: "https://gorgeous-jelly-64064b.netlify.app/",
   },
-  // {
-  //   id: 0,
-  //   title: "Podstream",
-  //   date: "Apr 2023 - May 2023",
-  //   description:
-  //     "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
-  //   image:
-  //     "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-  //   tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
-  //   category: "web app",
-  //   github: "https://github.com/rishavchanda/Podstream",
-  //   webapp: "https://podstream.netlify.app/",
+  {
+    id: 0,
+    title: "CarePulse - A HeealthCare Management System",
+    date: "Aug 2023 - Sept 2024",
+    description:
+      "Designed and developed the Healthcare Patient Management System, a web-based platform that allows patients to seamlessly register, book, and manage their doctor appointments. Built with Next.js, the application offers a user-friendly interface for patients to schedule appointments, while providing administrative tools for managing, confirming, and canceling appointments. Key features include SMS notifications via Twilio for appointment confirmations, secure file uploads with Appwrite Storage, and full responsiveness across devices.",
+    image:
+      "https://private-user-images.githubusercontent.com/151519281/347042676-a7dd73b6-93de-484d-84e0-e7f4e299167b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzM0MjEyNDMsIm5iZiI6MTczMzQyMDk0MywicGF0aCI6Ii8xNTE1MTkyODEvMzQ3MDQyNjc2LWE3ZGQ3M2I2LTkzZGUtNDg0ZC04NGUwLWU3ZjRlMjk5MTY3Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIwNVQxNzQ5MDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zMTY3YThkOGE4ODY5NTY1MzRhZjZkZGY2ODM5ZTM0YmU2NDcwZDMyYjQ1MDc2MWE2YjgwNWJlNTdiMzNkY2I2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.yV4BQ4ZzrhP97DK-TJ1Zh-ikzIJ2FtJLtxizWF6F_6M",
+    tags: ["Next.js", "Appwrite", "TypeScript", "TailwindCSS", "ShadCN", "Twilio", "Sentry"],
+    category: "web app",
+    github: "https://github.com/swxpnill/CarePulse",
+    webapp: "https://care-pulse-cyan.vercel.app/",
   //   member: [
   //     {
   //       name: "Rishav Chanda",

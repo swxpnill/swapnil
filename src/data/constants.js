@@ -438,19 +438,19 @@ export const projects = [
     title: "Hospital Management System",
     date: "Jun 2024 - Jun 2024",
     description:
-      "Developed a Hospital Management System using Java and MySQL to streamline patient registration, appointment scheduling, and medical records management. Implemented secure user authentication with role-based access control. Designed a responsive web interface for seamless access across devices. Utilized agile methodologies to enhance team collaboration and project delivery.",
+      "The Interactive iPhone 15 Pro Web Experience is an engaging web project built with React.js, GSAP, and Three.js. It features dynamic animations, interactive 3D models, and a video carousel to showcase the iPhone 15 Pro. The responsive design ensures a smooth experience across all devices, with high-quality media that adjusts to screen size. GSAP enables smooth transitions, while Three.js brings the device to life with realistic 3D rendering.",
     image:
-      "https://private-user-images.githubusercontent.com/47048717/241374488-87120956-e508-4d5b-b48f-c823f5e29851.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc3NzQ5NjEsIm5iZiI6MTcyNzc3NDY2MSwicGF0aCI6Ii80NzA0ODcxNy8yNDEzNzQ0ODgtODcxMjA5NTYtZTUwOC00ZDViLWI0OGYtYzgyM2Y1ZTI5ODUxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDAxVDA5MjQyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU2OWU5N2IxYzUwZjVjMWYxNDYyYWY5MzYwNjk2NzcyZjhlZTc2MTk0OTNmMDdlNmY1NTMwZjk2N2MwODQwZWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.gYhCNMLM_iivtycLz64OdtL71-IpQBZUopJofXsTZV0",
+      "https://camo.githubusercontent.com/3d9f9e98ec2087a3b83a05e0b7e46734a0ca64d4de5b492b210c39d20dfd1573/68747470733a2f2f692e706f7374696d672e63632f3337506e5177386e2f496d6167652d66726f6d2e706e67",
     tags: [
-      "Java",
-      "MYSQL",
-      "HTML",
-      "CSS",
+      "React.js",
+      "GSAP",
+      "Three.js",
+      "HTML5 Video",
       "Javascript",
     ],
     category: "web app",
-    github: "https://github.com/swxpnill/hospital-managment-sytem",
-    // webapp: "https://trackify-management.netlify.app/",
+    github: "https://github.com/swxpnill/Apple-Website",
+    webapp: "https://gorgeous-jelly-64064b.netlify.app/",
   },
   // {
   //   id: 0,

@@ -479,26 +479,26 @@ export const projects = [
   //     },
   //   ],
   },
-  // {
-  //   id: 1,
-  //   title: "Vexa",
-  //   date: "Oct 2022 - Jan 2023",
-  //   description:
-  //     "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
-  //   image:
-  //     "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
-  //   tags: [
-  //     "React Js",
-  //     "MongoDb",
-  //     "Node Js",
-  //     "Express Js",
-  //     "Redux",
-  //     "NodeMailer",
-  //   ],
-  //   category: "web app",
-  //   github: "https://github.com/rishavchanda/Project-Management-App",
-  //   webapp: "https://vexa-app.netlify.app/",
-  // },
+  {
+    id: 1,
+    title: "TO-DO List App",
+    date: "Jan 2023",
+    description:
+      "Developed a To-Do List Application using React Context API for efficient state management and Local Storage for task persistence across sessions. Implemented features like adding, updating, deleting tasks, and toggling completion to enhance usability. Designed a responsive interface with CSS and maintained code quality using ESLint and Prettier. This project highlights my ability to integrate front-end technologies, create scalable solutions, and deliver impactful applications while demonstrating a commitment to continuous learning and professional growth.",
+    image:
+      "https://private-user-images.githubusercontent.com/119793591/375356761-d46dcab2-34e6-4b0e-9d4e-f108be2084e0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQwODY2NjksIm5iZiI6MTczNDA4NjM2OSwicGF0aCI6Ii8xMTk3OTM1OTEvMzc1MzU2NzYxLWQ0NmRjYWIyLTM0ZTYtNGIwZS05ZDRlLWYxMDhiZTIwODRlMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIxM1QxMDM5MjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zMTAzMzg2MTVmYmY3MTAxZTI3NWI4MWJlYmU3NjdjY2Y2N2RlNTg4OWMzY2Y0N2FiMGRkZjAwYzE2Mjc4ZmY3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.m5Jkki2l9mV7t_e18l-HujcHy5fyMbEvpWImtSHTWB0",
+    tags: [
+      "React",
+      "React Context API",
+      "Local Storage",
+      "CSS",
+      "ESLint",
+      "Prettier",
+    ],
+    category: "web app",
+    github: "https://github.com/swxpnill/TODO-LIST-WITH-CONTEXT-API",
+    webapp: "https://beamish-mooncake-0c731f.netlify.app",
+  },
   // {
   //   id: 2,
   //   title: "Brain Tumor Detection",
